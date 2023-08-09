@@ -1,0 +1,6 @@
+Address of elements in c++
+
+how are the elements stored in c++
+what is memory and what is address
+can we access the address of the elements 
+if we have the address of the elements can we access the corresponding elements itself 
